@@ -2,10 +2,12 @@
  
   "user":[
     {
+      "id"    : 2,
       "name"  : "Alif Naufal Rizki",
       "email" : "alif.119130022@student.itera.ac.id"
     },
    {
+    "id"    : 1,
       "name"  : "Akbar Izza",
       "email" : "akbar@student.itera.ac.id"
     }
